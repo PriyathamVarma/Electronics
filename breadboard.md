@@ -1,5 +1,7 @@
 # 🔌 MB-102 Solderless Breadboard 🛠️  
 
+![Breadboard](https://github.com/PriyathamVarma/Electronics/blob/main/Images/Screenshot%202025-06-14%20at%2013.25.52.png)
+
 The object in the image is a **solderless breadboard**, specifically an **MB-102 Solderless Breadboard**, as indicated by the file name and the visual characteristics.  
 
 ## 🧐 Overview  
