@@ -1,2 +1,2 @@
 # Electronics
-From basics
+Breadboard: https://github.com/PriyathamVarma/Electronics/blob/main/breadboard.md
